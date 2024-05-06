@@ -1,4 +1,3 @@
-![Uploading Screenshot 2024-05-06 151340.png…]()
 ![Screenshot 2024-05-06 151340](https://github.com/NermeenKamal/Flower-Store-FullStack/assets/114883845/975aa854-e624-4e4b-92a0-c1b06fff7288)
 ---
 
